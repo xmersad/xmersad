@@ -35,11 +35,11 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="100%">
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmersad&hide_border=true&layout=compact" align="left" />
 
-</td></tr></table>  
+
 
 <br/>  
 
