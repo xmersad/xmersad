@@ -1,6 +1,18 @@
-## Hey 👋, I'm Mersad Karimi  
-  
-  
+# Welcome to Mersad's GitHub! 👋
+
+## About Me
+
+I am an **Embedded Linux Developer** specializing in system programming, device driver development, and Linux kernel integration. My work focuses on building robust systems for modern embedded devices using cutting-edge tools and technologies. With a strong passion for open-source projects and low-level programming, I aim to contribute to the embedded systems community and expand my expertise continuously.
+
+### Key Areas of Expertise
+- **Embedded Linux System Development**: From scratch setups to advanced Yocto Project integrations.
+- **Device Driver Development**: Proficient in creating and debugging drivers for a variety of devices.
+- **System Programming**: Experienced in building reliable C-based user-space and kernel-space applications.
+- **Bootloader Customization**: Working with U-Boot and other bootloaders for embedded platforms.
+- **Cross-Compilation**: Building libraries, applications, and tools for ARM-based platforms like Raspberry Pi.
+- **IoT Integration**: Combining sensors, protocols, and embedded systems for innovative projects.
+
+
 
 <br/>  
 
