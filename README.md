@@ -37,12 +37,6 @@ I am an **Embedded Linux Developer** specializing in system programming, device 
 
 <br/>  
 
-
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xmersad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
 <br/>  
 
   
